@@ -24,6 +24,5 @@ An AI-powered sales assistant built with Copilot, D365 Sales, Azure OpenAI, and 
 3. Configure Azure OpenAI APIs
 4. Embed insights into seller workflows
 
-## License
-MIT
+
 
